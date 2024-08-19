@@ -7,5 +7,8 @@
   margin: auto;
 }
 body{
+  background-image: url(/public/debby-hudson-FsrRDNVBS2Y-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
   background-color: #c7ecee;
 }
