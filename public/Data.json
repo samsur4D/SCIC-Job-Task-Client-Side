@@ -1,0 +1,402 @@
+[
+  {
+  "name": "Smart Watch",
+  "image": "https://cdn.bdstall.com/product-image/giant_200314.jpg",
+  "description": "Track your fitness, monitor your heart rate, and stay connected.",
+  "price": 199.99,
+  "ratings": 4.6,
+  "createdAt": "13/08/2024",
+  "category": "Mobile",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Fitness Tracker",
+  "image": "https://cdn.vox-cdn.com/thumbor/MshSJ5rL-aUJkEk4dnATU1Hu2Ng=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23336503/acastro_220321_5092_0001.jpg",
+  "description": "Track your daily activity, sleep, and workouts with this fitness tracker.",
+  "price": 99.99,
+  "ratings": 4.5,
+  "createdAt": "08/08/2024",
+  "category": "Mobile",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Tablet",
+  "image": "https://images-cdn.ubuy.co.in/63ca32eb868e293cfa392175-tablet-10-1-inch-android-3g-phone.jpg",
+  "description": "Versatile tablet with high-resolution display and fast performance.",
+  "price": 299.99,
+  "ratings": 4.6,
+  "createdAt": "29/07/2024",
+  "category": "Mobile",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Smartphone Case",
+  "image": "https://image.coolblue.be/max/640x360/content/d1817a8d595b7c5275a2014f8263bfce",
+  "description": "Durable and stylish case to protect your smartphone.",
+  "price": 20,
+  "ratings": 4,
+  "createdAt": "04/08/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Portable Charger",
+  "image": "https://www.travelandleisure.com/thmb/eIzZNIMJ76dCqn8p2R_YH2JdRas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Portable-Chargers-of-2024-tout-bd0829ba3e8b404db7b89ea04d10ed9a.jpg",
+  "description": "Compact and powerful portable charger for all your devices.",
+  "price": 30,
+  "ratings": 4.1,
+  "createdAt": "09/08/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Laptop Stand",
+  "image": "https://cdn.bdstall.com/product-image/giant_142771.jpg",
+  "description": "Adjustable laptop stand for better ergonomics and cooling.",
+  "price": 30,
+  "ratings": 4.2,
+  "createdAt": "23/07/2024",
+  "category": "Laptop",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Gaming Laptop",
+  "image": "https://i.pcmag.com/imagery/roundups/01hiB08j7yaJGJmPl2YhRRH-59..v1713199550.jpg",
+  "description": "Powerful gaming laptop with high-end graphics and fast processor.",
+  "price": 1200,
+  "ratings": 4.8,
+  "createdAt": "15/08/2024",
+  "category": "Laptop",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Wireless Bluetooth Earbuds",
+  "image": "https://www.bdshop.com/pub/media/catalog/product/cache/0a9842a5e3033a11158d10717601d786/w/a/wavefun-g100-wireless-gaming-bluetooth-earbuds-in-bd-at-bdshopcom.jpg",
+  "description": "High-quality sound, ergonomic fit, and long battery life.",
+  "price": 59.99,
+  "ratings": 4.5,
+  "createdAt": "16/08/2024",
+  "category": "Mobile",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Portable Air Conditioner",
+  "image": "https://www.appliancesonline.com.au/academy/wp-content/uploads/2018/01/portable-ac-with-horizontal-sliding-window-installation-air-conditioner-casement-conditioning-how-do-i-install-an-on-a-1.jpg",
+  "description": "Compact and efficient portable air conditioner for cooling small spaces.",
+  "price": 299.99,
+  "ratings": 4.6,
+  "createdAt": "24/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Travel Backpack",
+  "image": "https://media.e-valy.com/cms/products/images/e9d1b9f1-3290-42dc-8d55-b3922913975a",
+  "description": "Durable and spacious travel backpack with multiple compartments.",
+  "price": 60,
+  "ratings": 4.5,
+  "createdAt": "12/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Desk Lamp",
+  "image": "https://m.media-amazon.com/images/I/61LqZYRmACS._AC_SL1500_.jpg",
+  "description": "Adjustable desk lamp with LED light for studying or working.",
+  "price": 25,
+  "ratings": 4.1,
+  "createdAt": "27/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Laptop Sleeve",
+  "image": "https://m.media-amazon.com/images/I/817knME88GL._AC_SL1500_.jpg",
+  "description": "Protective sleeve for your laptop with a sleek design.",
+  "price": 40,
+  "ratings": 4.3,
+  "createdAt": "05/08/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Bluetooth Speaker",
+  "image": "https://www.artis.in/cdn/shop/products/1_f5b3377c-c870-420f-bc6a-5cd4b3a5a7c7.jpg?v=1653639993",
+  "description": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
+  "price": 70,
+  "ratings": 4.3,
+  "createdAt": "06/08/2024",
+  "category": "Mobile",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Smartphone Mount",
+  "image": "https://www.ajkershop.com/public/uploads/all/MVgqX6CDbYgo1PIrJRlmtd0PCIx5AAuAAWGaBWZP.webp",
+  "description": "Adjustable mount to hold your smartphone securely.",
+  "price": 25,
+  "ratings": 4.2,
+  "createdAt": "07/08/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Desk Organizer",
+  "image": "https://images-cdn.ubuy.co.in/633b646255d7530e75682a89-office-desk-organizer-and-accessories.jpg",
+  "description": "Keep your desk tidy with this versatile desk organizer.",
+  "price": 25,
+  "ratings": 4.1,
+  "createdAt": "11/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Fitness Ball",
+  "image": "https://static-01.daraz.com.bd/p/b5b30f27acef33c84bbf4714063c3ca6.jpg",
+  "description": "Durable fitness ball for exercises and stretching.",
+  "price": 20,
+  "ratings": 4,
+  "createdAt": "14/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Travel Pillow",
+  "image": "https://images-cdn.ubuy.qa/63fa38517e4994437c4da463-neck-pillow-for-travel-inflatable.jpg",
+  "description": "Comfortable travel pillow for added neck support.",
+  "price": 35,
+  "ratings": 4.4,
+  "createdAt": "15/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Blender",
+  "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3cbba532-5f03-43af-9a8c-d29c8528933a._SL480_.png",
+  "description": "High-speed blender for smoothies, soups, and sauces.",
+  "price": 99.99,
+  "ratings": 4.4,
+  "createdAt": "03/08/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Air Purifier",
+  "image": "https://m.media-amazon.com/images/I/714TjtxQJSL.jpg",
+  "description": "Advanced air purifier to improve air quality in your home.",
+  "price": 120,
+  "ratings": 4.7,
+  "createdAt": "26/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Electric Kettle",
+  "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/1104X1581/Bajaj_Double_Layer_Electric_Kettle_Water-Bajaj-0e234-359440.jpg",
+  "description": "Fast boiling electric kettle with auto shut-off feature.",
+  "price": 35,
+  "ratings": 4.4,
+  "createdAt": "30/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Office Desk",
+  "image": "https://m.media-amazon.com/images/I/81s6D4Wu1oL._AC_UF894,1000_QL80_.jpg",
+  "description": "Modern office desk with ample storage space.",
+  "price": 200,
+  "ratings": 4.2,
+  "createdAt": "02/08/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Camera Lens",
+  "image": "https://photographylife.com/wp-content/uploads/2022/01/too-many-lenses.jpg",
+  "description": "High-quality lens for capturing stunning photos.",
+  "price": 300,
+  "ratings": 4.5,
+  "createdAt": "04/08/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Smart Light Bulbs",
+  "image": "https://www.gelighting.com/sites/default/files/styles/small/public/products/mmjhwe1ktrxeg3dwgcvq.jpg?itok=2Z4x0uDV",
+  "description": "Adjustable smart light bulbs with color-changing options.",
+  "price": 35,
+  "ratings": 4.6,
+  "createdAt": "10/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Desk Chair",
+  "image": "https://images-cdn.ubuy.qa/633ad6f3ed3a557b1d316114-ergonomic-executive-home-office-chairs.jpg",
+  "description": "Ergonomic desk chair for comfort during long hours of work.",
+  "price": 150,
+  "ratings": 4.7,
+  "createdAt": "16/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Wireless Mouse",
+  "image": "https://www.quicklink.com.bd/image/cache/catalog/mouse/A4tech/fb35c/a4tech-fb35c-fstyler-multimode-recharegable-type-c-wireless-550x550.jpg.webp",
+  "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+  "price": 30,
+  "ratings": 4.4,
+  "createdAt": "17/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "External Hard Drive",
+  "image": "https://cdn.thewirecutter.com/wp-content/media/2023/05/externalhardrives-2048px-09422.jpg",
+  "description": "High-capacity external hard drive for additional storage.",
+  "price": 120,
+  "ratings": 4.6,
+  "createdAt": "18/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Wireless Charger",
+  "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/anker-cube-charger_480x480.jpg?v=1690949236",
+  "description": "Fast wireless charger compatible with most smartphones.",
+  "price": 40,
+  "ratings": 4.5,
+  "createdAt": "19/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Home Security Camera",
+  "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/11/Mi-Home-Security-Camera-360%C2%B0-1-1-scaled.jpg",
+  "description": "High-definition home security camera with night vision.",
+  "price": 150,
+  "ratings": 4.8,
+  "createdAt": "20/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Ergonomic Mouse Pad",
+  "image": "https://images-cdn.ubuy.co.in/6454ca3c6e3a4d3c5942c04a-soqool-ergonomic-mouse-pad-with.jpg",
+  "description": "Comfortable ergonomic mouse pad with wrist support.",
+  "price": 20,
+  "ratings": 4.2,
+  "createdAt": "21/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "USB Hub",
+  "image": "https://ryans.com/storage/products/main/havit-h46-4-port-black-usb-30-11669377411.webp",
+  "description": "Multi-port USB hub for connecting multiple devices.",
+  "price": 25,
+  "ratings": 4.3,
+  "createdAt": "22/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Portable Projector",
+  "image": "https://m.media-amazon.com/images/I/618klqnYCGL.jpg",
+  "description": "Compact portable projector for presentations and entertainment.",
+  "price": 200,
+  "ratings": 4.5,
+  "createdAt": "23/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Desk Fan",
+  "image": "https://images-cdn.ubuy.co.in/63507829f46ace0bde54bbf3-usb-desk-fan-cordless-rechargeable-mini.jpg",
+  "description": "Small desk fan with adjustable speed settings.",
+  "price": 30,
+  "ratings": 4.1,
+  "createdAt": "24/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Noise-Canceling Headphones",
+  "image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0876.jpg",
+  "description": "Comfortable headphones with noise-canceling feature.",
+  "price": 150,
+  "ratings": 4.8,
+  "createdAt": "25/07/2024",
+  "category": "Mobile",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Electric Scooter",
+  "image": "https://m.media-amazon.com/images/I/6121LIPyPYL._AC_SL1500_.jpg",
+  "description": "Eco-friendly electric scooter with long battery life.",
+  "price": 400,
+  "ratings": 4.7,
+  "createdAt": "26/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Gaming Headset",
+  "image": "https://i5.walmartimages.com/seo/RUNMUS-K8-Gaming-Headset-Xbox-One-PS4-Surround-Sound-Over-Ear-Headphones-Noise-Canceling-Mic-RGB-Light-Compatible-Nintendo-Switch-Mac_7e45b973-29c8-4cc0-ad80-7dc2f0d688b7.aad8f828876f09f7fc38f41bedb02b47.jpeg",
+  "description": "Comfortable gaming headset with surround sound.",
+  "price": 80,
+  "ratings": 4.4,
+  "createdAt": "27/07/2024",
+  "category": "Mobile",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Electric Toothbrush",
+  "image": "https://hips.hearstapps.com/hmg-prod/images/gh-index-electrictoothbrushes-030-web-1664567529.jpg",
+  "description": "Advanced electric toothbrush with multiple brushing modes.",
+  "price": 50,
+  "ratings": 4.5,
+  "createdAt": "28/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Smart Home Hub",
+  "image": "https://cdn.mos.cms.futurecdn.net/ukvoDUr9iUMaisXcRF5N7C.jpg",
+  "description": "Central hub to control your smart home devices.",
+  "price": 100,
+  "ratings": 4.6,
+  "createdAt": "29/07/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  },
+  {
+  "name": "Portable Battery Pack",
+  "image": "https://cdn.thewirecutter.com/wp-content/media/2023/07/portablepowerstations-2048px-01704.jpg",
+  "description": "High-capacity portable battery pack for on-the-go charging.",
+  "price": 60,
+  "ratings": 4.4,
+  "createdAt": "30/07/2024",
+  "category": "Accessories",
+  "brand": "GizmoPro"
+  },
+  {
+  "name": "Electric Bike",
+  "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/segway-xyber-header.jpg?quality=82&strip=all",
+  "description": "High-performance electric bike with pedal assist.",
+  "price": 1000,
+  "ratings": 4.8,
+  "createdAt": "31/07/2024",
+  "category": "Accessories",
+  "brand": "NextGen"
+  },
+  {
+  "name": "Portable Mini Fridge",
+  "image": "https://urbantransit.com/cdn/shop/products/53358-UT-MiniFridge-Blue-prodD_1200x.jpg?v=1639337959",
+  "description": "Compact mini fridge perfect for personal use.",
+  "price": 150,
+  "ratings": 4.5,
+  "createdAt": "01/08/2024",
+  "category": "Accessories",
+  "brand": "TechCorp"
+  }
+  ]
