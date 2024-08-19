@@ -14,7 +14,7 @@ const ProductPage = () => {
   const [itemsPerPage] = useState(8); // Number of items per page
 
   useEffect(() => {
-    fetch("https://scic-job-task-server-side-14.vercel.app/products")
+    fetch("https://scic-job-task-server-side-ten.vercel.app/products")
       .then((res) => res.json())
       .then((result) => {
         setProducts(result);
